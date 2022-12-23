@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+>>>>>>> 7d8bec9 (add Mongo DB database, allowing users to store blog posts permanently on Mongo db)
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
